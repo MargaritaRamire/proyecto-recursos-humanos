@@ -1,0 +1,31 @@
+.survey-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px 0;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.survey-card h3 {
+  margin: 0 0 8px;
+  color: #333;
+}
+
+.survey-card p {
+  margin: 0 0 12px;
+  color: #555;
+}
+
+.survey-btn {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.survey-btn:hover {
+  background-color: #218838;
+}
